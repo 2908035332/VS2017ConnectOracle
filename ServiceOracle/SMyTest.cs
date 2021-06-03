@@ -34,7 +34,7 @@ namespace ServiceOracle
         private int GetID()
         {
             Random random = new Random();
-            int id = random.Next();
+            int id = random.Next(0,99999999);
             if (GetByID(id) == false)
             {
                 GetByID();
