@@ -1,0 +1,8 @@
+https://blog.csdn.net/jhycjhyc/article/details/96136631
+下载：
+VS 2017的ODAC 19.3.1.0.0
+（70 MB）
+默认安装路径即可  给ServiceOracle添加 Oracle.ManagedDataAccess 引用（Oracle.ManagedDataAccess 在 默认安装路径）
+
+克隆后 需重新生成解决方案
+GIT地址：https://github.com/2908035332/VS2017ConnectOracle.git
